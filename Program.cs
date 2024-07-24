@@ -6,7 +6,7 @@ namespace demoAS1_Programing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter your name:");
+            Console.WriteLine("Please enter your name ahihi:");
             string name = Console.ReadLine();
             Console.WriteLine("please enter price water last month:");
             double priceWaterLast = Convert.ToDouble(Console.ReadLine());
